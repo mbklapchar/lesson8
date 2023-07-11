@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8416abae.css",
+    "main.js": "/static/js/main.7a145da2.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/matthew_portrait.jpg": "/static/media/matthew_portrait.ca0378497201e482047d.jpg",
+    "static/media/article.jpg": "/static/media/article.e04097346aee226f2879.jpg",
+    "static/media/calc-app.jpg": "/static/media/calc-app.645cbe8f5eedad530da2.jpg",
+    "static/media/change-calc.jpg": "/static/media/change-calc.2a18f8f3baa3f28a1a7a.jpg",
+    "index.html": "/index.html",
+    "main.8416abae.css.map": "/static/css/main.8416abae.css.map",
+    "main.7a145da2.js.map": "/static/js/main.7a145da2.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8416abae.css",
+    "static/js/main.7a145da2.js"
+  ]
+}
